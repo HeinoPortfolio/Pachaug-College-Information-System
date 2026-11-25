@@ -12,12 +12,12 @@ A self-contained, 100% offline-first Flutter mobile application designed to help
 ## Pre-Code Documentation Pipeline
 All specifications are hosted in the **[Project Wiki](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki)**:
 
-1. **[Project Charter](https://github.com)**
-2. **[Operational Scenario](https://github.com)**
-3. **[Business Requirements (BRD)](https://github.com)**
-4. **[Software Requirements Specification (SRS)](https://github.com)**
-5. **[System Architecture & Data Design (SDD)](https://github.com)**
-6. **[Test Plan & Traceability Matrix](https://github.com)**
+1. **[Project Charter](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki/Project-Charter)**
+2. **[Operational Scenario](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki/Scenario)**
+3. **[Business Requirements (BRD)](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki/Business-Requirements)**
+4. **[Software Requirements Specification (SRS)](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki/Software-Requirements-Specification)**
+5. **[System Architecture & Data Design (SDD)](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki/System-Architecture-and-Data-Design)**
+6. **[Test Plan & Traceability Matrix](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki/Test-Plan-and-Traceability-Matrix)**
 
 ## Tech Stack
 * **Framework:** Flutter (Dart)
