@@ -14,7 +14,7 @@ A self-contained, offline-first mobile application designed to help college stud
 ## Documentation & Specifications
 Full project documentation, including the user narrative, business requirements, and system architecture, is hosted in the **[Project Wiki](../../wiki)**:
 * **[Operational Scenario](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki)** – Follow Leo's day-to-day experience to see the real-world problems this app solves.
-* **[Business Requirements]()** *(Link not created)*
+* **[Business Requirements](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki/Business-Requirment)** Business requirement for the application.
 * **[Use Cases & Domain Model]()** *(Link not created)*
 
 ## Getting Started
