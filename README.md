@@ -1,29 +1,38 @@
-# Pachaug-College-Information-System
-Pachaug College Information System Repo
+# Pachaug College Information System (PCS-1.0)
 
-# Pachaug College School Info Application (PCS-1.0)
-
-A self-contained, offline-first mobile application designed to help college students organize their semester syllabi, track upcoming assessments, manage study notes, and filter weekly deadlines without relying on slow web portals or constant internet access.
+A self-contained, 100% offline-first Flutter mobile application designed to help college students organize their semester syllabi, track upcoming assessments, manage study notes, and filter weekly deadlines without relying on slow web portals.
 
 ## Key Features
-* **Offline-First Storage:** Access all course details, class schedules, and exam types locally on your device without needing an internet connection.
+* **100% Offline-First Storage:** Access all course details, class schedules, and exam types locally on your device with zero external APIs.
+* **Dual-Engine Local Persistence:** Organizes academic hierarchies in **SQLite** while storing fast study notes in **Hive**.
 * **Semester & Deadline Mapping:** View upcoming exams, project milestones, and coursework in a clean, week-by-week timeline.
-* **Quick Study Notes & Sharing:** Jot down lecture notes and send them directly via native email to classmates with a single tap.
-* **Privacy & Simplicity:** Completely self-contained with no external logins or cluttered portals.
+* **Quick Study Notes & Sharing:** Jot down lecture notes and share them directly via native email to classmates with a single tap.
+* **Privacy & Simplicity:** Protected behind a local profile with zero cloud dependencies or cluttered logins.
 
-## Documentation & Specifications
-Full project documentation, including the user narrative, business requirements, and system architecture, is hosted in the **[Project Wiki](../../wiki)**:
-* **[Operational Scenario](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki)** – Follow Leo's day-to-day experience to see the real-world problems this app solves.
-* **[Business Requirements](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki/Business-Requirment)** Business requirement for the application.
-* **[Use Cases & Domain Model]()** *(Link not created)*
+## Pre-Code Documentation Pipeline
+All specifications are hosted in the **[Project Wiki](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki)**:
+
+1. **[Project Charter](https://github.com)**
+2. **[Operational Scenario](https://github.com)**
+3. **[Business Requirements (BRD)](https://github.com)**
+4. **[Software Requirements Specification (SRS)](https://github.com)**
+5. **[System Architecture & Data Design (SDD)](https://github.com)**
+6. **[Test Plan & Traceability Matrix](https://github.com)**
+
+## Tech Stack
+* **Framework:** Flutter (Dart)
+* **Local Relational Database:** SQLite
+* **Local Key-Value / NoSQL Storage:** Hive
+* **Platform Integrations:** Native OS Notifications, Calendar Date Pickers, and Native Email Client
 
 ## Getting Started
-*(Add your tech stack, prerequisites, and installation steps here once you begin coding, e.g., Flutter, React Native, Swift, or Kotlin.)*
-
-
+```bash
+git clone https://github.com
+cd Pachaug-College-Information-System
+```
 
 ## Project Status
-* [x] Operational Scenario & Problem Definition
-* [ ] Requirements & Use Case Modeling
-* [ ] UI/UX Wireframes & Architecture
-* [ ] Core Offline Database & Timeline Implementation
+* [x] Wiki Documentation Pipeline & Skeleton Setup
+* [x] Operational Scenario & Business Requirements Document (`BRD`)
+* [ ] Project Charter, SRS, SDD, and Core Implementation
+
