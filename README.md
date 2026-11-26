@@ -3,11 +3,11 @@
 A self-contained, 100% offline-first Flutter mobile application designed to help college students organize their semester syllabi, track upcoming assessments, manage study notes, and filter weekly deadlines without relying on slow web portals.
 
 ## Key Features
-> * **100% Offline-First Storage:** Access all course details, class schedules, and exam types locally on your device with zero external APIs. <br>
-> * **Dual-Engine Local Persistence:** Organizes academic hierarchies in **SQLite** while storing fast study notes in **Hive**. <br>
-> * **Semester & Deadline Mapping:** View upcoming exams, project milestones, and coursework in a clean, week-by-week timeline. <br>
-> * **Quick Study Notes & Sharing:** Jot down lecture notes and share them directly via native email to classmates with a single tap. <br>
-> * **Privacy & Simplicity:** Protected behind a local profile with zero cloud dependencies or cluttered logins. <br>
+> 🔵 **100% Offline-First Storage:** Access all course details, class schedules, and exam types locally on your device with zero external APIs. <br>
+> 🔵 **Dual-Engine Local Persistence:** Organizes academic hierarchies in **SQLite** while storing fast study notes in **Hive**. <br>
+> 🔵 **Semester & Deadline Mapping:** View upcoming exams, project milestones, and coursework in a clean, week-by-week timeline. <br>
+> 🔵 **Quick Study Notes & Sharing:** Jot down lecture notes and share them directly via native email to classmates with a single tap. <br>
+> 🔵 **Privacy & Simplicity:** Protected behind a local profile with zero cloud dependencies or cluttered logins. <br>
 
 ## Pre-Code Documentation Pipeline
 All specifications are hosted in the **[Project Wiki](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki)**:
@@ -20,10 +20,10 @@ All specifications are hosted in the **[Project Wiki](https://github.com/HeinoPo
 > **[Test Plan & Traceability Matrix](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki/Test-Plan-and-Traceability-Matrix)** <br>
 
 ## Tech Stack
-> * **Framework:** Flutter (Dart)
-> * **Local Relational Database:** SQLite
-> * **Local Key-Value / NoSQL Storage:** Hive
-> * **Platform Integrations:** Native OS Notifications, Calendar Date Pickers, and Native Email Client
+> ⚪ **Framework:** Flutter (Dart) <br>
+> ⚪ **Local Relational Database:** SQLite <br> 
+> ⚪ **Local Key-Value / NoSQL Storage:** Hive <br>
+> ⚪ **Platform Integrations:** Native OS Notifications, Calendar Date Pickers, and Native Email Client <br>
 
 ## Getting Started
 ```bash
