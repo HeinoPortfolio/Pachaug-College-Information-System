@@ -29,7 +29,7 @@ All specifications are hosted in the **[Project Wiki](https://github.com/HeinoPo
 
 ## Getting Started
 ```bash
-git clone https://github.com
+git clone https://github.com/HeinoPortfolio/Pachaug-College-Information-System.wiki.git
 cd Pachaug-College-Information-System
 ```
 
