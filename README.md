@@ -1,4 +1,4 @@
-# Pachaug College Information System (PCS-1.0)
+# Pachaug College Information System (PaCIS)
 
 A self-contained, 100% offline-first Flutter mobile application designed to help college students organize their semester syllabi, track upcoming assessments, manage study notes, and filter weekly deadlines without relying on slow web portals.
 
