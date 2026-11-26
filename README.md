@@ -2,6 +2,8 @@
 
 A self-contained, 100% offline-first Flutter mobile application designed to help college students organize their semester syllabi, track upcoming assessments, manage study notes, and filter weekly deadlines without relying on slow web portals.
 
+ℹ️ This is a personal project and is not intended to be a project for true production. It is designed and laid out as away to prove ability and skills in various areas.
+
 ## Key Features
 > 🔵 **100% Offline-First Storage:** Access all course details, class schedules, and exam types locally on your device with zero external APIs. <br>
 > 🔵 **Dual-Engine Local Persistence:** Organizes academic hierarchies in **SQLite** while storing fast study notes in **Hive**. <br>
