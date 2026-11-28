@@ -15,7 +15,7 @@ A self-contained, 100% offline-first Flutter mobile application designed to help
 All specifications are hosted in the **[Project Wiki](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki)**:
 
 > **[Project Charter](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki/Project-Charter)** <br>
-> **[Operational Scenario](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki/Scenario)** <br> 
+> **[Operational Scenario](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki/OPerational-Scenario)** <br> 
 > **[Business Requirements (BRD)](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki/Business-Requirements)** <br> 
 > **[Software Requirements Specification (SRS)](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki/Software-Requirements-Specification)** <br>
 > **[System Architecture & Data Design (SDD)](https://github.com/HeinoPortfolio/Pachaug-College-Information-System/wiki/System-Architecture-and-Data-Design)** <br>
